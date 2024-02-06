@@ -2,6 +2,8 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+[RequireComponent(typeof)]
+
 public class player : MonoBehaviour
 {
     // Start is called before the first frame update
